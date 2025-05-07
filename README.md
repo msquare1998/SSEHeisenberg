@@ -1,4 +1,4 @@
-# Stochastic series expansion algorithm for S=1/2 AFM Heisenberg model
+# Stochastic series expansion quantum Monte Carlo algorithm for S=1/2 AFM Heisenberg model
 This project reproduces the same algorithm as that in https://physics.bu.edu/~sandvik/programs/ssebasic/ssebasic.html
 
 ## Unsafe macro
